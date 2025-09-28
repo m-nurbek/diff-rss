@@ -108,3 +108,21 @@ bibtex
   author={Zhumangali, Imangali and Seytnazarov, Shinnazar},
   year={2025}
 }
+
+
+#################################
+
+1. ADD self attention layers to Table diffursion model
+2. Mean VS median for AP
+3. Try imputers
+4. Optuna
+5. Diffusion models for tabular dataset
+6. Null values how it was handled
+
+Try to scale to MinMax and set the null values to 0,
+
+Add mode
+
+Read the paper 18
+
+Dataset 2: https://www.kaggle.com/datasets/priyaroycse/juindoorloc-wifi-fingerprint-indoor-localization
